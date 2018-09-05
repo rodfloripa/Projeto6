@@ -1,5 +1,7 @@
 # Projeto6
-Tratamento e Análise de Dados de uma Conta no Twitter
+Tratamento e Análise de Dados de uma Conta no Twitter-Fundamentos de Data Science II-Udacity
+https://br.udacity.com/course/fundamentos-data-science-ii--nd111
+
 O conjunto de dados para fazer o wrangling (analisar e visualizar) é o arquivo de tweets do usuário do Twitter @dog_rates, também conhecido como WeRateDogs. WeRateDogs é uma conta no Twitter que classifica os cães das pessoas com um comentário bem humorado sobre o cão. Ele foi iniciado em 2015 pelo estudante universitário Matt Nelson e recebeu cobertura da mídia internacional. Em outubro de 2017 tinha mais 3,7 milhões de seguidores.Neste projeto é feita a coleta, avaliação e limpeza, necessários para análises e visualizações.
 
 wrangle_act.ipynb           : código com a união dos dados,limpeza e visualização
